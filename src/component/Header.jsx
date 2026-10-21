@@ -7,5 +7,3 @@ export const Header = ({currentKep}) => {
     </div>
   )
 }
-
-ö
